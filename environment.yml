@@ -16,3 +16,4 @@ dependencies:
   - pip
   - pip:
       - missingno>=0.5.2
+
